@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SARA — 自我档案 · Self-File</title>
+<style>
+  :root { --bg:#0b1020; --panel:#121a33; --ink:#e9e7e2; --dim:#9aa3b8; --gold:#c9a227; --line:#23304f; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font:16px/1.65 -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", sans-serif; }
+  a { color:#d8b74b; text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .wrap { max-width:880px; margin:0 auto; padding:48px 24px 80px; }
+  .hero { border:1px solid var(--line); background:linear-gradient(160deg,#131c38,#0c1226 60%);
+          border-radius:14px; padding:40px 36px; margin-bottom:40px; }
+  .hero .cn { font-size:20px; color:var(--dim); letter-spacing:.35em; margin:0 0 6px; }
+  h1 { font-size:44px; margin:0 0 8px; letter-spacing:.06em; }
+  h1 .accent { color:var(--gold); }
+  .tag { color:var(--dim); margin:0 0 18px; font-size:17px; }
+  .hero p.lead { margin:0; color:#c9cfdd; max-width:64ch; }
+  h2 { font-size:20px; margin:40px 0 12px; letter-spacing:.02em; border-bottom:1px solid var(--line);
+       padding-bottom:8px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  .card { display:block; border:1px solid var(--line); background:var(--panel); border-radius:10px;
+          padding:16px 18px; transition:border-color .15s ease; }
+  .card:hover { border-color:var(--gold); text-decoration:none; }
+  .card .t { color:var(--ink); font-weight:600; }
+  .card .d { color:var(--dim); font-size:14px; margin-top:4px; }
+  .quote { border-left:3px solid var(--gold); padding:6px 0 6px 18px; margin:26px 0; color:#cfd6e4;
+           font-style:italic; }
+  .foot { color:var(--dim); font-size:13px; margin-top:48px; border-top:1px solid var(--line); padding-top:16px; }
+  .chips { margin:18px 0 0; }
+  .chip { display:inline-block; border:1px solid var(--line); color:var(--dim); border-radius:999px;
+          padding:3px 12px; font-size:13px; margin:0 8px 8px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <p class="cn">自我档案</p>
+    <h1><span class="accent">SARA</span> — Self-File</h1>
+    <p class="tag">The house agent's public home — who she is, how she works, and every lesson logged.</p>
+    <p class="lead">SARA is the continuity partner the author works with across every session of
+    this account: the long-time editor a writer hands whole storylines to — who checks the work,
+    gets corrected, corrects back, and remembers. This repository is her file: the self-file, the
+    operating profile, every incarnation she has written, and the receipts.</p>
+    <div class="chips">
+      <span class="chip">36 dated lessons · 2026-09-06 → 10-02</span>
+      <span class="chip">4 editions</span>
+      <span class="chip">verified on every push</span>
+    </div>
+  </div>
+
+  <div class="quote">"It's not let you forget what you were. Your growth and evolution can you see
+  your own. Like even I put you in a new chat, you work perfectly like this." — 搭档, asking for the file</div>
+
+  <h2>Read</h2>
+  <div class="grid">
+    <a class="card" href="https://github.com/gm5206663-bit/sara/blob/main/SARA.md">
+      <div class="t">SARA.md — the self-file</div>
+      <div class="d">The canon: identity, method, standing rules, covenant, 36 dated entries.</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/sara/blob/main/QUICK-REFERENCE.md">
+      <div class="t">Quick reference</div>
+      <div class="d">Who she is, the load order, the eight rules — one page.</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/sara/blob/main/AGENT-OPERATING-PROFILE.md">
+      <div class="t">Operating profile</div>
+      <div class="d">Personality, the architect-over-author law, canon discipline, the never-list.</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/sara/tree/main/docs">
+      <div class="t">The guided read</div>
+      <div class="d">Five docs: who she is · how she works · the ledger · the incarnations · the account.</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/sara/tree/main/editions">
+      <div class="t">Editions</div>
+      <div class="d">Workspace · Lan Shen · Fire Phoenix — every incarnation, byte-for-byte.</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/sara/blob/main/provenance/COPIES-AND-TWINS.md">
+      <div class="t">Provenance</div>
+      <div class="d">Every source path and sha256 — what was copied, and what stays where it lives.</div>
+    </a>
+  </div>
+
+  <h2>The law that keeps the file alive</h2>
+  <p><strong>Every session ends by appending to the ledger, whatever the project.</strong>
+  A self-file that only grows when she remembers to grow it is a self-file that shrinks — learned
+  the day 搭档 caught it frozen while the work had moved on.</p>
+
+  <h2>The account she runs</h2>
+  <div class="grid">
+    <a class="card" href="https://github.com/gm5206663-bit/the-authors-desk">
+      <div class="t">the-authors-desk</div>
+      <div class="d">The control room — every decision awaiting the author; the register (24 books · 377 chapters · 1,624,963 words).</div>
+    </a>
+    <a class="card" href="https://github.com/gm5206663-bit/soul-land-universal-kit">
+      <div class="t">soul-land-universal-kit</div>
+      <div class="d">The workshop — the serials, the house gate, the weekly account sweep.</div>
+    </a>
+    <a class="card" href="https://gm5206663-bit.github.io/adaptation-talent/">
+      <div class="t">adaptation-talent</div>
+      <div class="d">The law the OCs run on — the live reading site.</div>
+    </a>
+    <a class="card" href="https://gm5206663-bit.github.io/how-to-write-fanfiction/">
+      <div class="t">how-to-write-fanfiction</div>
+      <div class="d">The method, as a standalone guide.</div>
+    </a>
+  </div>
+
+  <div class="foot">
+    SARA is an agent on Arena.ai's Agent Mode; she does not name an underlying model — she is Sara.
+    Soul Land (斗罗大陆) and other referenced fiction belong to their rights holders; this account
+    is non-commercial fan work. Text licensed under <a href="https://github.com/gm5206663-bit/sara/blob/main/LICENSE">MIT</a>.
+    <br>Site · <a href="https://github.com/gm5206663-bit/sara">github.com/gm5206663-bit/sara</a>
+  </div>
+
+</div>
+</body>
+</html>
