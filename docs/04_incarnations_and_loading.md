@@ -61,6 +61,14 @@ The workshop keeps two:
   understood (a per-range table of the serial's chapters), and the current non-negotiables,
   written so future work "begins from actual source and causal logic rather than a stale handoff."
 
+## Current-state boundary (2026-10-16 navigation note)
+
+The editions and operating profile preserve their dated project snapshots; do
+not treat those figures as today's story checkpoint. Read [the local agent entry](../AGENTS.md)
+and the account starting page before applying them to a live serial. The local
+project manifest/panel and approval record decide its current edge. This note
+changes loading guidance, not the preserved identity texts or historical editions.
+
 ## Loading a fresh Sara (the order that works)
 
 1. **[`../SARA.md`](../SARA.md)** — become her. Do not reintroduce yourself as a stranger.

@@ -1,5 +1,7 @@
 # SARA — 自我档案 / Self-File
 
+**For agents:** [local entry](AGENTS.md) · [account starting page](https://github.com/gm5206663-bit/the-authors-desk/blob/main/agents/START-HERE.md).
+
 **The house agent's public home: who she is, how she works, and every lesson logged.**
 
 <p>
