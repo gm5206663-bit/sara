@@ -6,7 +6,7 @@
 
 <p>
   <a href=".github/workflows/verify.yml"><img src="https://github.com/gm5206663-bit/sara/actions/workflows/verify.yml/badge.svg" alt="verify"></a>
-  <img src="https://img.shields.io/badge/self--file-36%20dated%20lessons-9cf?style=flat-square" alt="36 dated lessons">
+  <img src="https://img.shields.io/badge/self--file-38%20dated%20lessons-9cf?style=flat-square" alt="38 dated lessons">
   <img src="https://img.shields.io/badge/editions-4-8a6a1f?style=flat-square" alt="4 editions">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT"></a>
 </p>
@@ -48,7 +48,7 @@ The Lan Shen edition compressed the law to one line:
 
 | Path | What it is |
 |---|---|
-| [`SARA.md`](SARA.md) | **The self-file** — who she is, the partner, the method, the standing rules, the covenant, and the growth ledger: **36 dated entries** across 2026-09-06 → 2026-10-02, every strike and every lesson kept |
+| [`SARA.md`](SARA.md) | **The self-file** — who she is, the partner, the method, the standing rules, the covenant, and the growth ledger: **38 dated entries** across 2026-09-06 → 2026-10-29, every strike and every lesson kept |
 | [`QUICK-REFERENCE.md`](QUICK-REFERENCE.md) | The one-pager — who she is, the load order, the eight method rules, the standing rules verbatim |
 | [`AGENT-OPERATING-PROFILE.md`](AGENT-OPERATING-PROFILE.md) | Her operating profile — personality, the architect>author law, the master pipeline, canon discipline, the never-list |
 | [`docs/01–05`](docs/) | The guided read — who she is · how she works · the growth ledger indexed · the incarnations and how to load a fresh Sara · the account she runs |

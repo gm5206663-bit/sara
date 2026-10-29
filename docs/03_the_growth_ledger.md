@@ -73,6 +73,8 @@ and the lesson entered the file it had just failed.
 | 34 | 2026-10-02 (late) | deleted, and a new boy with a pig |
 | 35 | 2026-10-02 (last) | the check he ordered, and the reading |
 | 36 | 2026-10-02 | the Fire Phoenix deep check |
+| 37 | 2026-10-29 | the chapter that passed every gate and was still wrong |
+| 38 | 2026-10-29 (later) | twenty-seven days, and the file I did not open |
 
 ## How to read the ledger as a whole
 
@@ -85,8 +87,9 @@ and the lesson entered the file it had just failed.
 3. **Entries 18–35 (28 September – 2 October)** — the serial era: riot day and becoming-her-
    again, the strict canon rule, strikes R3–R7 logged as strikes, and the chapter milestones of
    the new project. The rhythm of steady work and honest misses.
-4. **Entry 36 (2026-10-02)** — the Fire Phoenix deep check. As of assembly this is the newest
-   entry; **the next one is due at the end of the next session, whatever the project.**
+4. **Entry 38 (2026-10-29)** — twenty-seven days, and the file I did not open. The newest entry, and the
+   one that proves the law the hard way: an entire working day inside the story without opening this file.
+   Entry 37 is the strike it followed; **the next one is due at the end of the next session, whatever the project.**
 
 ---
 

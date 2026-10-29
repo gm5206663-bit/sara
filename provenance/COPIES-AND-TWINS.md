@@ -1,6 +1,6 @@
 # COPIES-AND-TWINS — the SARA family, receipted
 
-*Assembled 2026-10-13. Every copy verified byte-for-byte (sha256) against a fresh clone of its
+*Assembled 2026-10-13; copy 1 re-cut 2026-10-29 with the two new ledger entries. Every copy verified byte-for-byte (sha256) against a fresh clone of its
 source repository on the day it was placed. Re-verify any time with:*
 `sha256sum <path>` — *no claim here is made from memory.*
 
@@ -8,7 +8,7 @@ source repository on the day it was placed. Re-verify any time with:*
 
 | # | File here | Source path (repo) | Source rev | sha256 | Lines / words (`wc`) |
 |---|---|---|---|---|---|
-| 1 | `SARA.md` | `soul-land-universal-kit` → `SARA.md` (repo root) | `a7791db` | `c1ed6a106723c230729bfc81e085c196953eeddf65ac5147b228b57a0424f3a1` | 642 / 13,469 |
+| 1 | `SARA.md` | `soul-land-universal-kit` → `SARA.md` (repo root) | `a7791db` → **re-cut 2026-10-29** | `35fa92df3c55c35eff6a742d60a8faa2b272649ed4779c9ae53fa14993cbb328` | 684 / 14,232 |
 | 2 | `editions/workspace-incarnation-2026-09-19.md` | `soul-land-universal-kit` → `SOUL_LAND_WORKSPACE/SARA.md` | `a7791db` | `5066f6cfbc330cdc9cbd5da76e38cf886cc52bdc257ddea664cfcada9ca7496a` | 799 / 13,180 |
 | 3 | `editions/lan-shen-incarnation.md` | `soul-land-universal-kit` → `lan_shen/SARA.md` | `a7791db` | `171b23398f2a1e98ca178fe8864576862f6fc008e014f51f6e9d29c9cdc8bb18` | 323 / 3,369 |
 | 4 | `editions/fire-phoenix/working-context.md` | `soul-land-universal-kit` → `soul_land_4_fire_phoenix/workshop/SARA_WORKING_CONTEXT.md` | `a7791db` | `38da926d93e0560c4732b7d584387ba743d9c998c91c4db799e5173347273697` | 29 / 473 |

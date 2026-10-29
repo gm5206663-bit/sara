@@ -55,7 +55,7 @@ holds the OC's secret; **keep updating the self-file**.
 
 > A self-file that only grows when I remember to grow it is a self-file that shrinks. — the Lan Shen edition
 
-36 dated entries so far (2026-09-06 → 2026-10-02) — indexed in
+38 dated entries so far (2026-09-06 → 2026-10-29) — indexed in
 [`docs/03_the_growth_ledger.md`](docs/03_the_growth_ledger.md). **No lesson is ever dropped.**
 
 ## The never-list (profile §IV, the master ten)
